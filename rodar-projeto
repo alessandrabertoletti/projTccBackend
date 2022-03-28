@@ -1,0 +1,7 @@
+Para rodar backend use:
+
+Node app.js
+
+e no navegador coloque a rota:
+
+http://localhost:3000/usuarios/
